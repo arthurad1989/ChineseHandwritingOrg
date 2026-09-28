@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Tutorials"
+    url: /tutorials/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "About the Community"
+    url: /about/
