@@ -1,2 +1,6 @@
-theme: minima
-title: Chinese Handwriting Community (漢字書寫社群)'s Homepage
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+title: Chinese Handwriting Community (漢字書寫社群)
+
+plugins:
+  - jekyll-include-cache
