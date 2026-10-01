@@ -5,16 +5,19 @@ permalink: /discourse-test/
 comments: false
 ---
 
-# Discussion Test
-
-This page is testing an existing Discourse topic directly.
+This page is testing the full interactive Discourse discussion.
 
 <div id="discourse-comments"></div>
 
 <script type="text/javascript">
   window.DiscourseEmbed = {
     discourseUrl: 'https://chinesehandwriting.discourse.group/',
-    topicId: 9
+    topicId: 9,
+    fullApp: true,
+    dynamicHeight: true,
+    embedMinHeight: '500',
+    embedMaxHeight: '900',
+    embedHeight: '600px'
   };
 
   (function() {
