@@ -1,9 +1,11 @@
-window.DiscourseEmbed = {
-  discourseUrl: 'https://chinesehandwriting.discourse.group/',
-  topicId: 9,
-  fullApp: true,
-  dynamicHeight: true,
-  embedMinHeight: '300',
-  embedMaxHeight: '900',
-  embedHeight: '400px'
-};
+---
+title: "Discussion Test"
+layout: single
+permalink: /discourse-test/
+comments: false
+discourse_topic_id: 9
+---
+
+This page is testing the reusable Discourse discussion component.
+
+{% include discourse-full-app.html %}
