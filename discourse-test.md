@@ -2,11 +2,27 @@
 title: "Discussion Test"
 layout: single
 permalink: /discourse-test/
-comments: true
+comments: false
 ---
 
 # Discussion Test
 
-This is a temporary page for testing the Chinese Handwriting Community discussion system.
+This page is testing an existing Discourse topic directly.
 
-If everything is configured correctly, a Discourse discussion should appear below this text.
+<div id="discourse-comments"></div>
+
+<script type="text/javascript">
+  window.DiscourseEmbed = {
+    discourseUrl: 'https://chinesehandwriting.discourse.group/',
+    topicId: 9
+  };
+
+  (function() {
+    var d = document.createElement('script');
+    d.type = 'text/javascript';
+    d.async = true;
+    d.src = window.DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] ||
+     document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
