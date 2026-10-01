@@ -1,6 +1,14 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
-title: Chinese Handwriting Community (漢字書寫社群)
+title: Chinese Handwriting Community 漢字書寫社群
+
+url: "https://chinesehandwriting.org"
+baseurl: ""
 
 plugins:
   - jekyll-include-cache
+
+comments:
+  provider: "discourse"
+  discourse:
+    server: "chinesehandwriting.discourse.group"
