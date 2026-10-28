@@ -6,7 +6,6 @@ permalink: /
 
 # The Art of Everyday Chinese Handwriting
 
-
 Welcome to the Chinese Handwriting Community (漢字書寫社群).
 
 We are a free, community-maintained educational project dedicated to improving everyday Chinese handwriting using pens and pencils.
@@ -44,7 +43,6 @@ Whether you're a beginner, an experienced learner, or a native Chinese speaker, 
 </div>
 
  
-
 
 ## About the Project
 
