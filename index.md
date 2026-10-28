@@ -1,4 +1,3 @@
-
 ---
 title: "Chinese Handwriting Community"
 layout: single
@@ -6,6 +5,7 @@ permalink: /
 ---
 
 # The Art of Everyday Chinese Handwriting
+
 
 Welcome to the Chinese Handwriting Community (漢字書寫社群).
 
