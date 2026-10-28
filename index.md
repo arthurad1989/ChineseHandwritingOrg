@@ -17,17 +17,34 @@ Whether you're a beginner, an experienced learner, or a native Chinese speaker, 
 
 ## Explore Our Tutorials
 
-### 楷書 · Regular Script
+<div class="feature__wrapper">
 
-Learn the fundamentals of character structure, proportion, spacing, and balance.
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body" style="border: 1px solid #d8dce0; border-radius: 6px; padding: 24px; text-align: center;">
+        <h2 style="font-size: 2.8em; margin-bottom: 12px;">楷書</h2>
+        <h3>Regular Script</h3>
+        <p>Structure, balance, and clarity</p>
+        <p><a href="/regular-script/">Explore tutorials</a></p>
+      </div>
+    </div>
+  </div>
 
-[Explore Regular Script](/regular-script/)
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body" style="border: 1px solid #d8dce0; border-radius: 6px; padding: 24px; text-align: center;">
+        <h2 style="font-size: 2.8em; margin-bottom: 12px;">行書</h2>
+        <h3>Semi-Cursive Script</h3>
+        <p>Flow, rhythm, and expression</p>
+        <p><a href="/semi-cursive-script/">Explore tutorials</a></p>
+      </div>
+    </div>
+  </div>
 
-### 行書 · Semi-Cursive Script
+</div>
 
-Discover a more fluid and expressive way of writing Chinese characters while maintaining legibility.
+---
 
-[Explore Semi-Cursive Script](/semi-cursive-script/)
 
 ---
 
