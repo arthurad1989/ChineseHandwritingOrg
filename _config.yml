@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 title: Chinese Handwriting Community 漢字書寫社群
+masthead_title: "Chinese Handwriting Community"
 
 url: "https://chinesehandwriting.org"
 baseurl: ""
@@ -12,3 +13,10 @@ comments:
   provider: "discourse"
   discourse:
     server: "chinesehandwriting.discourse.group"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
