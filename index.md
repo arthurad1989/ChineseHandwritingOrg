@@ -1,6 +1,7 @@
 ---
 title: "The Art of Everyday Chinese Handwriting"
 layout: single
+classes: homepage
 permalink: /
 ---
 
