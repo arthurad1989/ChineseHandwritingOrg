@@ -109,3 +109,8 @@ body {
 .page__content a:hover {
   color: #466f78;
 }
+
+/* Hide automatic permalink icons beside section headings. */
+.page__content .header-link {
+  display: none;
+}
