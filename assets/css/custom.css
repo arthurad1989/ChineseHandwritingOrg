@@ -60,7 +60,7 @@
 }
 
 @font-face {
-  font-family: "CommunityChinese";
+  font-family: "ChnHwCommKai";
   src: url("../fonts/founder-yongle.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -68,7 +68,7 @@
 }
 
 .chinese-font {
-  font-family: "CommunityChinese", serif;
+  font-family: "ChnHwCommKai", serif;
   font-weight: 400;
   font-synthesis: none;
 }
