@@ -72,3 +72,40 @@
   font-weight: 400;
   font-synthesis: none;
 }
+
+/* Background and default English text. */
+body {
+  background-color: #e4e8dc;
+  color: #466f78;
+}
+
+/* Navigation background. */
+.masthead,
+.greedy-nav {
+  background-color: #e4e8dc;
+}
+
+/* English headings and navigation. */
+.page__title,
+.page__content h2,
+.page__content h3,
+.greedy-nav .site-title,
+.greedy-nav .visible-links a {
+  color: #466f78;
+}
+
+/* Chinese text, including tutorial headings. */
+.chinese-font,
+.page__content .chinese-font {
+  color: #113459;
+}
+
+/* Keep links distinguishable from ordinary text. */
+.page__content a {
+  color: #113459;
+  text-decoration: underline;
+}
+
+.page__content a:hover {
+  color: #466f78;
+}
