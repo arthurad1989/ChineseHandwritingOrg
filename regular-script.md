@@ -1,5 +1,5 @@
 ---
-title: "Regular Script 楷書"
+title: 'Regular Script <span class="chinese-font" lang="zh-Hant">楷書</span>'
 layout: single
 permalink: /regular-script/
 ---
@@ -19,12 +19,12 @@ and stroke order.
 
 Topics include:
 
-- Dots
-- Horizontal and vertical strokes
-- Throws and presses
-- Lifts and hooks
-- Bends and zigzags
-- Stroke order
+- Dots (點)
+- Horizontal (橫) and Vertical (豎)
+- Throws (撇) and Presses (捺)
+- Lifts (挑) and Hooks (鉤)
+- Bends (彎) and Zigzags (折)
+- Stroke Order
 
 ## Intermediate Guides
 ### ASK001–ASK040 · Single-Component Characters
