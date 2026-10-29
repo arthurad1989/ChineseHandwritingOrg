@@ -5,13 +5,11 @@ classes: homepage
 permalink: /
 ---
 
-Welcome to the Chinese Handwriting Community (<span class="chinese-font" lang="zh-Hant">漢字書寫社群</span>).
+Welcome to the Chinese Handwriting Community (<span class="chinese-font" lang="zh-Hant">漢字書寫社群</span>)!
 
 We are a free, community-maintained educational project dedicated to improving everyday Chinese handwriting using pens and pencils.
 
 Whether you're a beginner, an experienced learner, or a native Chinese speaker, our tutorials will help you develop clearer, more natural, and more confident handwriting.
-
- 
 
 ## Explore Our Tutorials
 
@@ -41,15 +39,11 @@ Whether you're a beginner, an experienced learner, or a native Chinese speaker, 
 
 </div>
 
- 
-
 ## About the Project
 
 Our goal is to build a freely accessible, long-term educational library of Chinese handwriting tutorials.
 
 We focus on practical handwriting rather than traditional brush calligraphy. All our learning resources are intended to be freely available to everyone.
-
- 
 
 ## Join Our Community
 
