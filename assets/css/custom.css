@@ -114,3 +114,73 @@ body {
 .page__content .header-link {
   display: none;
 }
+
+/* Two equal-width tutorial cards across the content area. */
+.homepage .feature__wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  width: 100%;
+  border-bottom: 0;
+}
+
+/* Remove the theme's clearfix elements from the grid. */
+.homepage .feature__wrapper::before,
+.homepage .feature__wrapper::after {
+  display: none;
+}
+
+/* Override the theme's three-column card sizing. */
+.homepage .feature__wrapper .feature__item {
+  float: none;
+  clear: none;
+  width: auto;
+  margin: 0;
+  min-width: 0;
+  font-size: 1rem;
+}
+
+/* Give side-by-side cards equal heights. */
+.homepage .feature__item .archive__item {
+  display: flex;
+  height: 100%;
+}
+
+.homepage .feature__item .archive__item-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+}
+
+/* Tidy the spacing inside each card. */
+.homepage .feature__item h2 {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.homepage .feature__item h3 {
+  margin-top: 0.75em;
+  margin-bottom: 0.5em;
+}
+
+.homepage .feature__item p {
+  margin-bottom: 1em;
+}
+
+/* Align the tutorial links along the bottom. */
+.homepage .feature__item .archive__item-body > p:last-child {
+  margin-top: auto;
+  margin-bottom: 0;
+  padding-top: 1em;
+}
+
+/* Stack cards with natural heights on smaller screens. */
+@media (max-width: 640px) {
+  .homepage .feature__wrapper {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+  }
+}
