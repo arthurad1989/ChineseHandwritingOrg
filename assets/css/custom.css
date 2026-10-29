@@ -75,14 +75,14 @@
 
 /* Background and default English text. */
 body {
-  background-color: #e4e8dc;
+  background-color: #eaedda;
   color: #466f78;
 }
 
 /* Navigation background. */
 .masthead,
 .greedy-nav {
-  background-color: #e4e8dc;
+  background-color: #eaedda;
 }
 
 /* English headings and navigation. */
