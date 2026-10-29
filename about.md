@@ -1,8 +1,7 @@
 ---
-title: "About the Community"
+title: "About Us"
 permalink: /about/
 ---
 
-# About the Community
+A free, community-maintained educational resource dedicated to everyday Chinese handwriting with pens and pencils. Open to learners and native speakers alike.
 
-Information about the Chinese Handwriting Community will be added here.
