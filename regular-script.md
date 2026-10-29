@@ -19,11 +19,11 @@ and stroke order.
 
 Topics include:
 
-- Dots (點)
-- Horizontal (橫) and Vertical (豎)
-- Throws (撇) and Presses (捺)
-- Lifts (挑) and Hooks (鉤)
-- Bends (彎) and Zigzags (折)
+- Dots (<span class="chinese-font" lang="zh-Hant">點</span>)
+- Horizontal (<span class="chinese-font" lang="zh-Hant">橫</span>) and Vertical (<span class="chinese-font" lang="zh-Hant">豎</span>)
+- Throws (<span class="chinese-font" lang="zh-Hant">撇</span>) and Presses (<span class="chinese-font" lang="zh-Hant">捺</span>)
+- Lifts (<span class="chinese-font" lang="zh-Hant">挑</span>) and Hooks (<span class="chinese-font" lang="zh-Hant">鉤</span>)
+- Bends (<span class="chinese-font" lang="zh-Hant">彎</span>) and Zigzags (<span class="chinese-font" lang="zh-Hant">折</span>)
 - Stroke Order
 
 ## Intermediate Guides
