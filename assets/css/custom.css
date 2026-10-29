@@ -1,0 +1,42 @@
+/* Comfortable reading while retaining the theme's fonts and colors. */
+.page__content {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.page__title {
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  line-height: 1.25;
+  overflow-wrap: break-word;
+}
+
+/* Separate main sections with space instead of rules. */
+.page__content > h2 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  padding-bottom: 0;
+  border-bottom: 0;
+  line-height: 1.35;
+}
+
+.page__content h3 {
+  line-height: 1.4;
+}
+
+/* More compact navigation; preserve the theme's overflow behavior. */
+.greedy-nav .site-title {
+  font-size: 0.9rem;
+}
+
+.greedy-nav .visible-links a {
+  margin-inline: 0.65rem;
+  font-size: 0.85rem;
+}
+
+/* Visible keyboard focus, including the mobile menu button. */
+.greedy-nav a:focus-visible,
+.greedy-nav button:focus-visible,
+.page__content a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
