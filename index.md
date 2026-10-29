@@ -5,7 +5,7 @@ classes: homepage
 permalink: /
 ---
 
-Welcome to the Chinese Handwriting Community (漢字書寫社群).
+Welcome to the Chinese Handwriting Community (<span class="chinese-font" lang="zh-Hant">漢字書寫社群</span>).
 
 We are a free, community-maintained educational project dedicated to improving everyday Chinese handwriting using pens and pencils.
 
@@ -20,7 +20,7 @@ Whether you're a beginner, an experienced learner, or a native Chinese speaker, 
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body" style="border: 1px solid #d8dce0; border-radius: 6px; padding: 24px; text-align: center;">
-        <h2 style="font-size: 2.8em; margin-bottom: 12px;">楷書</h2>
+        <h2 class="chinese-font" lang="zh-Hant" style="font-size: 2.8em; margin-bottom: 12px;">楷書</h2>
         <h3>Regular Script</h3>
         <p>Structure, balance, and clarity</p>
         <p><a href="/regular-script/">Explore tutorials</a></p>
@@ -31,7 +31,7 @@ Whether you're a beginner, an experienced learner, or a native Chinese speaker, 
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body" style="border: 1px solid #d8dce0; border-radius: 6px; padding: 24px; text-align: center;">
-        <h2 style="font-size: 2.8em; margin-bottom: 12px;">行書</h2>
+        <h2 class="chinese-font" lang="zh-Hant" style="font-size: 2.8em; margin-bottom: 12px;">行書</h2>
         <h3>Semi-Cursive Script</h3>
         <p>Flow, rhythm, and expression</p>
         <p><a href="/semi-cursive-script/">Explore tutorials</a></p>
