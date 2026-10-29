@@ -40,3 +40,21 @@
   outline: 2px solid currentColor;
   outline-offset: 3px;
 }
+
+/* Center the homepage and remove unused sidebar space. */
+.homepage #main {
+  max-width: 1100px;
+  margin-inline: auto;
+}
+
+.homepage .page {
+  float: none;
+  width: 100%;
+  padding-inline: 0;
+}
+
+/* A more restrained homepage heading. */
+.homepage .page__title {
+  font-size: clamp(1.5rem, 2.5vw, 1.8rem);
+  line-height: 1.3;
+}
