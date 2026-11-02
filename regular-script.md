@@ -1,14 +1,10 @@
 ---
-title: 'Regular Script <span class="chinese-font" lang="zh-Hant">楷書</span>'
+title: 'Regular Script'
 layout: single
 permalink: /regular-script/
 ---
 
-Learn everyday Chinese handwriting in Regular Script
-(<span class="chinese-font" lang="zh-Hant">楷書</span>)
-through the ASK tutorial series.
-
-The tutorials are organised into four sections. You can follow
+The Regular Script tutorials are organised into four sections. You can follow
 them in sequence or revisit a particular topic.
 
 ## Basic Guides
