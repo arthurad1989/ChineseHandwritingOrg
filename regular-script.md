@@ -7,7 +7,7 @@ permalink: /regular-script/
 The Regular Script tutorials are organised into four sections. You can follow
 them in sequence or revisit a particular topic.
 
-## Basic Guides
+## I. Basic Guides
 ### ASK000–ASK000.7 · Basic Strokes
 
 Start with the introduction, then explore individual strokes
@@ -22,21 +22,20 @@ Topics include:
 - Bends (<span class="chinese-font" lang="zh-Hant">彎</span>) and Zigzags (<span class="chinese-font" lang="zh-Hant">折</span>)
 - Stroke Order (<span class="chinese-font" lang="zh-Hant">筆順</span>)
 
-## Intermediate Guides
+## II. Intermediate Guides
 ### ASK001–ASK040 · Single-Component Characters
 
 Study single-component characters
 (<span class="chinese-font" lang="zh-Hant">獨體字</span>),
 with attention to stroke placement, proportion, and balance.
 
-## Advanced Guides
+## III. Advanced Guides
 ### ASK041–ASK100 · Composite Characters
 
 Explore how components fit together within composite characters
 (<span class="chinese-font" lang="zh-Hant">合體字</span>).
 
-## Structural Patterns
-### ASK101–ASK150 · Provisional
+### ASK101–ASK150 · Structural Patterns
 
 Explore character structure
 (<span class="chinese-font" lang="zh-Hant">間架結構</span>)
