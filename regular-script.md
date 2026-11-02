@@ -24,7 +24,7 @@ Topics include:
 - Throws (<span class="chinese-font" lang="zh-Hant">撇</span>) and Presses (<span class="chinese-font" lang="zh-Hant">捺</span>)
 - Lifts (<span class="chinese-font" lang="zh-Hant">挑</span>) and Hooks (<span class="chinese-font" lang="zh-Hant">钩</span>)
 - Bends (<span class="chinese-font" lang="zh-Hant">彎</span>) and Zigzags (<span class="chinese-font" lang="zh-Hant">折</span>)
-- Stroke Order
+- Stroke Order (<span class="chinese-font" lang="zh-Hant">筆順</span>)
 
 ## Intermediate Guides
 ### ASK001–ASK040 · Single-Component Characters
