@@ -20,9 +20,9 @@ and stroke order.
 Topics include:
 
 - Dots (<span class="chinese-font" lang="zh-Hant">點</span>)
-- Horizontal (<span class="chinese-font" lang="zh-Hant">橫</span>) and Vertical (<span class="chinese-font" lang="zh-Hant">豎</span>)
+- Horizontal (<span class="chinese-font" lang="zh-Hant">横</span>) and Vertical (<span class="chinese-font" lang="zh-Hant">竖</span>)
 - Throws (<span class="chinese-font" lang="zh-Hant">撇</span>) and Presses (<span class="chinese-font" lang="zh-Hant">捺</span>)
-- Lifts (<span class="chinese-font" lang="zh-Hant">挑</span>) and Hooks (<span class="chinese-font" lang="zh-Hant">鉤</span>)
+- Lifts (<span class="chinese-font" lang="zh-Hant">挑</span>) and Hooks (<span class="chinese-font" lang="zh-Hant">钩</span>)
 - Bends (<span class="chinese-font" lang="zh-Hant">彎</span>) and Zigzags (<span class="chinese-font" lang="zh-Hant">折</span>)
 - Stroke Order
 
