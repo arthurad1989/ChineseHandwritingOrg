@@ -8,7 +8,7 @@ The Regular Script tutorials are organised into four sections. You can follow
 them in sequence or revisit a particular topic.
 
 ## Basic Guides
-### ASK000–ASK000.7
+### ASK000–ASK000.7 · Basic Strokes
 
 Start with the introduction, then explore individual strokes
 and stroke order.
