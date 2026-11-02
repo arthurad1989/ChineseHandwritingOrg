@@ -184,3 +184,9 @@ body {
     grid-auto-rows: auto;
   }
 }
+
+/* Hide the entire footer. */
+.page__footer {
+  display: none;
+}
+
